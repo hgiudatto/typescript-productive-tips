@@ -2,6 +2,7 @@ type MyType = {
   property1: string;
 };
 
+// ! important
 enum MyEnum {
   enumOne = "enumOne",
   enumTwo = "enumTwo",
